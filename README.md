@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a Generative AI enthusiast with hands-on experience building real-world AI solutions. I work with data analysis, Python, and modern GenAI tools to design intelligent applications. My focus is on prompt engineering, working with large language models, and transforming data into scalable AI-driven solutions that solve practical business problems.
-
+Generative AI enthusiast with hands-on experience building real-world AI applications. Works with Python, data analysis, and modern GenAI tools to develop intelligent and scalable solutions. Focus areas include prompt engineering, large language models, and transforming data into AI-driven systems that solve practical business problems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anoop-rawat-7850908/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:preetisharmaa035@gmail.com) 
