@@ -2,7 +2,7 @@
 
 ### Data Analyst | Python • SQL • Excel • Power BI
 
-I build dashboards and data-driven applications that turn raw information into clear insights and practical business decisions. My work focuses on sales analytics, database interaction, and AI-assisted tools. I work with Python, SQL, Excel, Power BI, and prompt engineering to explore and solve data-focused problems.
+I build dashboards and data-driven solutions that turn raw information into clear insights and practical business decisions. My work focuses on sales analytics, database interaction, and AI-assisted tools. I work with Python, SQL, Excel, Power BI, and prompt engineering to solve data-focused problems.
 
 ## Tech Stack
 
@@ -60,3 +60,9 @@ A chatbot project for interacting with PDF documents and asking questions about 
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
+
+---
+
+<p align="center">
+  <i>Turning data into insights and ideas into action.</i>
+</p>
