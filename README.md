@@ -25,6 +25,16 @@ An Excel dashboard summarizing order amounts, order volume, average order amount
 **Tech Stack:** Excel, PivotTables, PivotCharts  
 **Repository:** [E-Commerce-Dashboard](https://github.com/PreetiSharmaa035/E-Commerce-Dashboard)
 
+## GitHub Stats
+
+<p align="center">
+  <img width="85%" src="https://github-readme-stats.vercel.app/api?username=PreetiSharmaa035&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+</p>
+
+<p align="center">
+  <img width="85%" src="https://streak-stats.demolab.com?user=PreetiSharmaa035&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
 ## Connect With Me
 
 <div align="center">
