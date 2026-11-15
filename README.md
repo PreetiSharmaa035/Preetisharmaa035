@@ -39,15 +39,12 @@ A Python chatbot project for uploading PDF documents and asking questions about 
 
 ## GitHub Stats
 
-These cards are generated from your GitHub profile and display as images on GitHub.
-
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PreetiSharmaa035&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Preeti's GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreetiSharmaa035&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img width="85%" src="https://github-readme-stats.vercel.app/api?username=PreetiSharmaa035&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=PreetiSharmaa035&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img width="85%" src="https://streak-stats.demolab.com?user=PreetiSharmaa035&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ## Connect With Me
