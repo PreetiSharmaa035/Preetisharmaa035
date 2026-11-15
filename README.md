@@ -20,49 +20,46 @@ A business intelligence dashboard that analyzes sales trends, profitability, pro
 **Repository:** [Amazon-Sales-Dashboard](https://github.com/PreetiSharmaa035/Amazon-Sales-Dashboard)
 
 ### E-Commerce Sales Dashboard
-A sales dashboard that highlights total order value, average order amount, delivered orders, category-wise sales, monthly trends, state performance, and sales channels.
+An Excel dashboard summarizing order amount, order volume, average order amount, delivered orders, category and state sales, monthly trends, order status, and sales channels.
 
 **Tech Stack:** Excel, PivotTables, PivotCharts  
 **Repository:** [E-Commerce-Dashboard](https://github.com/PreetiSharmaa035/E-Commerce-Dashboard)
 
 ### Talk to DB
-A natural-language database project that converts questions into SQL and helps users query data more efficiently, review generated queries, and understand results.
+A natural-language database application that generates SQL from questions, displays a query preview, and presents results with AI-generated explanations.
 
 **Tech Stack:** Python, SQL, MySQL  
 **Repository:** [Talk-to-DB](https://github.com/PreetiSharmaa035/Talk-to-DB)
 
-### Chatbot
-A chatbot project for interacting with PDF documents and asking questions about their contents.
+### Chat with PDF
+A Python chatbot project for uploading PDF documents and asking questions about their contents.
 
 **Tech Stack:** Python  
 **Repository:** [Chatbot](https://github.com/PreetiSharmaa035/Chatbot)
 
----
-
 ## GitHub Stats
 
+These cards are generated from your GitHub profile and display as images on GitHub.
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PreetiSharmaa035&show_icons=true&hide_title=true&hide_rank=true&theme=default" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PreetiSharmaa035&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Preeti's GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreetiSharmaa035&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
----
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=PreetiSharmaa035&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
 ## Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/preeti-sharma-038870297" target="_blank">
+  <a href="https://www.linkedin.com/in/preeti-sharma-038870297">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:preetisharmaa035@gmail.com" target="_blank">
+  <a href="mailto:preetisharmaa035@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/PreetiSharmaa035" target="_blank">
+  <a href="https://github.com/PreetiSharmaa035">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
-
----
-
-<p align="center">
-  <i>Turning data into insights and ideas into action.</i>
-</p>
